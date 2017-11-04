@@ -20,12 +20,16 @@
 1. 신작 게임의 접속을 구현해주세요.
   - requestConnection(String str): String
 2. 유저가 게임 접속 시 다음을 고려해야합니다.
+
   ① 보안 과정: 보안 관련 부분을 처리합니다
    - doSecurity(String string): String
+
   ② 인증 과정: user name과 password가 일치하는지 확인합니다.
    - authentication(String id, String password): boolean
+   
   ③ 권한 과정: 접속자가 유료 회원인지 무료 회원인지 게임 마스터인지 확인합니다.
    - authorizaion(String userName): int
+   
   ④ 접속 과정: 접속자에게 커넥션 정보를 넘겨줍니다
    - connection(String info): String
    
