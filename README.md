@@ -5,9 +5,9 @@
 
 <a href="/src/adapter_pattern"> 2. 어댑터 패턴 </a>
 
-<a href="/src/template_method_pattern"> 3. 템플릿 매소드 패턴 </a>
+<a href="/src/template_method_pattern"> 3. 템플릿 메소드 패턴 </a>
 
-<a href="/src/factory_method_pattern"> 4. 팩토리 매소드 패턴 </a>
+<a href="/src/factory_method_pattern"> 4. 팩토리 메소드 패턴 </a>
 
 
 강의는 인프런을 참고
