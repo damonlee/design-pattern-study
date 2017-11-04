@@ -9,6 +9,7 @@
 
 <a href="/src/factory_method_pattern"> 4. 팩토리 메소드 패턴 </a>
 
+<a href="/src/singleton_pattern"> 5. 싱글톤 패턴 </a>
 
 강의는 인프런을 참고
 https://www.inflearn.com 
