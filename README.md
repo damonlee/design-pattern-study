@@ -11,7 +11,9 @@
 
 <a href="/src/singleton_pattern"> 5. 싱글톤 패턴 </a>
 
-<a href="/src/prototype_pattern"> 6. 프로토 타입 패턴 </a>
+<a href="/src/prototype_pattern"> 6-1. 프로토 타입 패턴 1</a>
+
+<a href="/src/prototype_pattern2"> 6-2. 프로토 타입 패턴 2</a>
 
 해당 repository는 인프런 - '자바 디자인 패턴의 이해' 강의를 듣고 오로지 개인 스터디 용으로 생성.
 https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/
