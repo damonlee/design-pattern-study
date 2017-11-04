@@ -15,7 +15,7 @@
   - 알고리즘을 수행할 템플릿 메소드를 만든다
   - 하위 클래스에서 나눠진 메소드를 구현한다.
    
-![alt text](fmethod.gif)
+![alt text](fmethod.png)
 
 
 # 문제
