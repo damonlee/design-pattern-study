@@ -16,7 +16,7 @@
 ![alt text](tmethod.gif)
 
 
-# 요구 사항
+# 문제
 <b> 1. 신작 게임의 접속을 구현해주세요.</b>
   - requestConnection(String str): String
   
