@@ -23,6 +23,8 @@
 
 <a href="/src/abstract_factory_pattern2"> 8-2. 추상 팩토리 패턴 2</a>
 
+<a href="/src/bridge_pattern"> 9. 브릿지 패턴</a>
+
 
 해당 repository는 인프런 - '자바 디자인 패턴의 이해' 강의를 듣고 오로지 개인 스터디 용으로 생성.
 https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/
